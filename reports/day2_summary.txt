@@ -1,0 +1,12 @@
+Day 2 Summary
+
+1. Cleaned NAV history dataset.
+2. Cleaned investor transactions dataset.
+3. Cleaned scheme performance dataset.
+4. Created SQLite star schema.
+5. Built dimension and fact tables.
+6. Loaded cleaned datasets into SQLite database.
+7. Verified row counts after loading.
+8. Created 10 analytical SQL queries.
+9. Prepared data dictionary documentation.
+10. Completed all Day 2 deliverables.
